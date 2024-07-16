@@ -1,10 +1,12 @@
 # Pintos Project – Alarm Clock 개선
+
 <br>
 <Br>
 
 ## 프로젝트 개요
 
 Pintos 커널의 `timer_sleep()` 함수는 busy waiting 방식으로 구현되어 있어 CPU 자원을 비효율적으로 사용한다. 이를 개선하기 위해 `timer_sleep()` 함수를 busy waiting 없이 동작하도록 수정하는 프로젝트를 수행했다.
+
 <br>
 <br>
 
