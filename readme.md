@@ -1,4 +1,8 @@
-# Pintos Project – Alarm Clock 개선
+# ✘ Pintos Project
+
+[Alarm Clock 개선 프로젝트]
+
+[프로젝트 보고서](https://github.com/dessertgomjelly/Ubuntu-Alarm-Clock/blob/main/alarm-report.pdf) & [소스 코드](https://github.com/dessertgomjelly/Ubuntu-Alarm-Clock/tree/main/src)
 
 <br>
 <Br>
